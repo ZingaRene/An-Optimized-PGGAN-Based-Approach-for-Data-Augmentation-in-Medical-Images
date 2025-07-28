@@ -1,0 +1,2 @@
+# An-Optimized-PGGAN-Based-Approach-for-Data-Augmentation-in-Medical-Images
+The proposed optimizations on the PGGANs include progressively reducing the number of filters from 512 at lower resolutions to 32 at higher resolutions, integrating attention mechanisms such as spatial and channel attention into the convolutional blocks, adding noise injection for regularization, employing Group Normalization.
